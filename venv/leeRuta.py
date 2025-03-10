@@ -3,12 +3,9 @@ import hashlib
 import logging
 import time
 import pyodbc
-from configConn import CADENA_CONEXION
+from configConn import CONN_STR
 from datetime import datetime
 
-# Listas de exclusión
-ExCarpetas = ['H:\\iomega\\movies', 'H:\\iomega\\tvshow', 'H:\\lenovo\\compartidos\\videos'] 
-ExExten = ['.mkv', '.avi', '.m4v', '.mp4'] # , '.mp3', '.pdf'] 
 
 # Log del proceso
 logging.basicConfig(
@@ -18,7 +15,7 @@ logging.basicConfig(
 )
 
 # Conectar a la BBDD
-conexion = pyodbc.connect(CADENA_CONEXION)
+conexion = pyodbc.connect(CONN_STR)
 
 # Calcular el hash SHA256 como lo hace en PowerShell
 def calcular_hash(archivo):
@@ -28,7 +25,7 @@ def calcular_hash(archivo):
             hash_sha256.update(bloque)
     return hash_sha256.hexdigest()
 
-def procesar_ruta(ruta):    
+def procesar_ruta(ruta, ExCarpetas, ExExten):
     start_time = time.time()  # Inicio del cronómetro
     iniTime = datetime.now()
     numArchivos=0
@@ -65,8 +62,7 @@ def procesar_ruta(ruta):
 
                 # Insertar en SQL Server
                 cursor.execute("""
-                    INSERT INTO py.ListArchivosTest (FeCreado, Nombre, Exten, Tamano, Ruta, RutArchivo, FecModif, FecAccess, idHash, idDupli, idAccion)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 0, NULL)
+                    EXEC py.sp_ListArchivosAdd ?, ?, ?, ?, ?, ?, ?, ?, ?
                 """, fe_creado, nombre, extension, tamano, ruta_relativa, ruta_archivo, fec_modif, fec_access, hash_archivo)
                 conexion.commit()
                 

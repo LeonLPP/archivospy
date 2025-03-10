@@ -1,7 +1,7 @@
 # Archivo configuracion.py
 
 # Definir la cadena de conexión
-CADENA_CONEXION_TEST = (
+CONN_STR_TEST = (
     "DRIVER={ODBC Driver 17 for SQL Server};"
     "SERVER=tu_servidor;"
     "DATABASE=MyFiles24;"
@@ -9,7 +9,7 @@ CADENA_CONEXION_TEST = (
     "PWD=tu_contraseña;"
 )
 
-CADENA_CONEXION = (
+CONN_STR = (
     "DRIVER={ODBC Driver 17 for SQL Server};"
     "SERVER=.\SQLEXPRESS;"
     "DATABASE=MyFiles24;"

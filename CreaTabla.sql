@@ -3,34 +3,33 @@ GO
 
 DROP TABLE IF EXISTS py.ListArchivos;
 CREATE TABLE py.ListArchivos (
-    FeCreado DATETIME,
-    Nombre NVARCHAR(MAX),
-    Exten NVARCHAR(50),
-    Tamano BIGINT,
-    Ruta NVARCHAR(MAX),
-    RutArchivo NVARCHAR(MAX),
-    FecModif DATETIME,
-    FecAccess DATETIME,
-    idHash NVARCHAR(100)
-)
+    idArchivo INT IDENTITY(1, 1) NOT NULL
+	, FeCreado DATETIME
+    , Nombre NVARCHAR(MAX)
+    , Exten NVARCHAR(50)
+    , Tamano BIGINT
+    , Ruta NVARCHAR(MAX)
+    , RutArchivo NVARCHAR(MAX)
+    , FecModif DATETIME
+    , FecAccess DATETIME
+    , idHash NVARCHAR(100),
+	PRIMARY KEY CLUSTERED 
+(
+	[idArchivo] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
 GO
 
 -- Agregar columna UsrAlta con un valor predeterminado del usuario actual
 ALTER TABLE py.ListArchivos
-ADD UsrAlta NVARCHAR(255) DEFAULT SYSTEM_USER;
--- Agregar columna FecAlta con un valor predeterminado de la fecha y hora actual
-ALTER TABLE py.ListArchivos
-ADD FecAlta DATETIME DEFAULT GETDATE();
--- Agregar columna idDupli para marcar duplicados (1 = duplicado)
-ALTER TABLE py.ListArchivos
-ADD idDupli INT DEFAULT 0;
--- Agregar columna idAccion para indicar el resultado de los procesos
-ALTER TABLE py.ListArchivos
-ADD idAccion INT DEFAULT NULL;
-GO
-
-ALTER TABLE py.ListArchivos
-	ADD FeAccion DATETIME DEFAULT Null;
+	ADD UsrAlta NVARCHAR(255) DEFAULT SYSTEM_USER
+	, FecAlta DATETIME DEFAULT GETDATE()
+	, idDupli INT DEFAULT 0
+	, idAccion INT DEFAULT NULL
+	, FeAccion DATETIME DEFAULT Null
+	, idResult INT
+	, FecResult DATETIME
+	, UsrResult NVARCHAR(255)
 GO
 
 

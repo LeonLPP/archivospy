@@ -1,11 +1,11 @@
 import pyodbc
-from configConn import CADENA_CONEXION
+from configConn import CONN_STR
 
 def probar_conexion():
     try:
         # Intentar conectarse al servidor
-        miConn = CADENA_CONEXION
-        conexion = pyodbc.connect(CADENA_CONEXION)        
+        miConn = CONN_STR
+        conexion = pyodbc.connect(CONN_STR)
         print(f"¡Conexión exitosa! {miConn}")
         
         # Cerrar la conexión
