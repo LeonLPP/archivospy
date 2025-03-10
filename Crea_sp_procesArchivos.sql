@@ -12,25 +12,16 @@ GO
 DROP PROCEDURE IF EXISTS py.sp_procesArchivos
 GO
 
-CREATE PROCEDURE py.sp_procesArchivos
-    @idArchivo INT,
-    @idResult INT
+CREATE PROCEDURE py.sp_procesArchivos    
+    @idAccion INT
 AS
 BEGIN
     SET NOCOUNT ON;
-
-    -- Actualiza la tabla py.ListArchivos con los valores recibidos y calcula UsrResult y FecResult
-    UPDATE py.ListArchivos
-    SET idResult = @idResult
-        , FecResult = GETDATE()
-        , UsrResult = SUSER_SNAME()
-    WHERE idArchivo = @idArchivo;
-
-    -- Verificar si la actualización afectó alguna fila
-    IF @@ROWCOUNT = 0
-    BEGIN
-        -- Si no se encuentra el idArchivo, devolver un mensaje informativo
-        RAISERROR ('El idArchivo especificado no existe en la tabla py.ListArchivos.', 16, 1);
-    END
+	Select idArchivo, Nombre, RutArchivo, Tamano
+	From py.ListArchivos
+	Where idAccion = @idAccion;
 END;
 GO
+
+
+EXEC py.sp_procesArchivos 92;

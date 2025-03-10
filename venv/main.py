@@ -1,11 +1,13 @@
-from leeRuta import procesar_ruta
-
 import sys
+from datetime import datetime 
 from leeRuta import procesar_ruta
 from depuraRuta import procesar_archivos
+from depuraRuta_BIG import procesArchivBig
 
 def main():
+    
     # Verificar que se haya pasado un argumento
+
     if len(sys.argv) != 2:
         print("Uso: python main.py <opcion>")
         print("Opciones:")
@@ -32,7 +34,7 @@ def main():
         id_accion = 92 # int(input("Introduce el idAccion (90 para borrar, 92 para simular borrado): "))
 
         print("Iniciando proceso de depuración de archivos...")
-        procesar_archivos(id_accion)
+        procesar_archivos(id_accion)        
         print("Proceso de depuración de archivos finalizado.")
 
     else:
@@ -41,7 +43,18 @@ def main():
         sys.exit(1)
 
 if __name__ == "__main__":
+    
+    iniTime = datetime.now()
+    print("+ - - - - - - - +")
+    print(f"Inicio: {iniTime}")
+    print("+ - - - - - - - +")
+    
     main()
+    
+    print("+ - - - - - - - +")
+    finTime = datetime.now()
+    print(f"Fin: {finTime}")
+
 
 """
 if __name__ == "__main__":
