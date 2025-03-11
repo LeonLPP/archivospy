@@ -79,3 +79,269 @@
 2025-03-10 14:58:02,547 - INFO - Fin Ruta... C:\Users\LeonPP\Documents
 2025-03-10 14:58:02,547 - INFO - Archivos procesados: 30
 2025-03-10 14:58:02,547 - INFO - Ruta procesada. Inicio: 2025-03-10 14:58:02.443025, Fin: 2025-03-10 14:58:02.547276 ... duración 0.10
+2025-03-11 08:43:47,604 - INFO - Conexion Cursor
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Plantilla Candidato Externo_LeonardoPerezParra.xlsm
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\elearning\PEGA\4 . Diseñando un Ciclo de Vida del Caso\New Microsoft Excel Worksheet.tsv
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\201005_CategoriaSiguienteM954leperezp.pdf
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\201005_SalarioSiguienteM954leperezp.pdf
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\201806_LLP_Jun_6463.pdf
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\2014\201404_LLP_Abril_[wG6ELdSp].pdf
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\2016\201606_LLP_Junio [8hmXusdJ].pdf
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\2016\201609_LLP_Septiembre [tNO4x1AU].pdf
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\nominas\201604_LLP_ABRIL [ynPsf8Zf].pdf
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\nominas\2014\201403_LLP_Capgemini.pdf
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\rrhh\45101878.doc
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\CV LeonardoPerez_2.ppt.pptx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Inventario_Elementos_y_SATI-20160804.xlsx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\Cambios Sistema de control de riesgo Noviembre2016 v4_0_NotasBankia.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\DTC\vers\DTC (OQPCRO01) Módulo consulta Facturacion del cliente_2rev2.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\DTC\vers\DTC (OQPCRO03) Módulo consulta detalles de la linea de riesgo_3rev4.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\DTC\vers\DTC (OQPCRO06) Módulo Renovacion de linea de Riesgo_2rev5.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\DTC\vers\DTC (OQPCRO07) Módulo Autorizar linea de Riesgo_2rev7.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\dossier_local\DOSSIER_TRABAJO_LOCAL-Control de Riesgo Operativo en Adeudos_v2.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\dossier_local\DOSSIER_TRABAJO_LOCAL-Control de Riesgo Operativo en Adeudos_v4_.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\dossier_local\vers\DOSSIER_TRABAJO_LOCAL-Control de Riesgo Operativo en Adeudos_v1.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\dossier_local\vers\DOSSIER_TRABAJO_LOCAL-Control de Riesgo Operativo en Adeudos_v1rev.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160727\DP Calculo Porcentaje Importe LMP OQUCRO02 v3-lpp.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160805\versiones\DP Modulo consulta detalles de linea de riesgo (OQPCRO03)05-08.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160818\DP Consulta Facturacion del Clliente OQUCRO01 v9rev23.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Calculo Porcentaje Importe LMP (OQPRO02) v5.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Consulta Facturacion del Clliente (OQUCRO01) v5.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Modulo consulta detalles de linea de riesgo (OQPCRO03) v5.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Módulo Alta de Nueva linea de Riesgo  (OQPCRO04) v5.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Módulo modificación de linea de riesgo (OQPCRO05) v5.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Módulo renovación de linea de riesgo (OQPCRO06) v5.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\entregas\DP Modulo consulta detalles de linea de riesgo (OQPCRO03) v2.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\entregas\DP Módulo Alta de Nueva linea de Riesgo  (OQPCRO04) v2.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\entregas\DP Módulo autorizar linea de riesgo (OQPCRO07) v2.docx
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\seguim\20160802_Notas.txt
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Bold Italic.otf
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Bold.otf
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Heavy Italic.otf
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Italic.otf
+2025-03-11 08:43:47,657 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Light Italic.otf
+2025-03-11 08:43:47,672 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Medium Italic.otf
+2025-03-11 08:43:47,672 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\HHCC\Kanban\RETRO Bankia 20180409 (2).pdf
+2025-03-11 08:43:47,672 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\modulos\MU - MKMDA0 - Solicitud datos Análisis Población.doc
+2025-03-11 08:43:47,672 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\modulos\Plantilla_Bankia_ECO.potx
+2025-03-11 08:43:47,672 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Seguimiento\HHCC\fotos_equipo\Leonardo Perez Parra.JPG
+2025-03-11 08:43:47,672 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Seguimiento\HHCC\mensual\201804\201804_HHCC_AC_Abril2018 v1.xlsx
+2025-03-11 08:43:47,672 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\ISBAN\BCE\carga\20140411\Carga Plantilla Final SAN T4A.xlsx
+2025-03-11 08:43:47,672 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\ISBAN\Silvina\PdS_Riesgos\20151021_1626  Pds Admision Riesgos 2015.xlsx
+2025-03-11 08:43:47,672 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\IsbanProy\GPS 2015\179617 2015 SAPYME DDR Y CONSTRUCCIÓN IMPRESOS Y COMPARATIVA DE BALANCES\post_implan\20150918_HD0000007687306 - Excel ErrExportacion\Excel Usuario\Export_Balance_19102015_1343426_llpp.xlsm
+2025-03-11 08:43:47,672 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\IsbanProy\ISA España\InstitucionesPublicas\notas\20151009_ISA Entidades Locales.txt
+2025-03-11 08:43:47,672 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\IsbanProy\ISA España\InstitucionesPublicas\notas\20151021_ISA Entidades Locales.txt
+2025-03-11 08:43:47,672 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\IsbanProy\ISA España\InstitucionesPublicas\notas\20151125 ISA Instituciones.txt
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Ofertas\Bankia\2019\201901_segurosdevida\ESTIMADOR AAD - Seguros Suplementos Salud_v5.xlsx
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\ofic_extranjeria_200711290026_6_7.pdf
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\APPs\EPP\Informacion_EPP v4.2x.xlsm
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\Documentacion\Plantillas\Plantilla_word_Isban_2012.doc
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\incidencias\20150917_ErrorPortatil_PantallaAzul - copia.jpg
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\incidencias\20150917_ErrorPortatil_PantallaAzul.jpg
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\SAPYME\COMP_BALANCE\Export_Balance_1 Abreviado - x3.xlsm
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\04_Z11_9995781.pdf
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\15113.docx
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\17-Formulario_TIE(1).pdf
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\2016_06_10_Capgemini_-_PROPUESTA_SEPA_-_Vinculaci_n_productos_v1a.pptx
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\201704_BBVA_170963000876098.pdf
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Actualización de condiciones particulares de póliza.pdf
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Actualización de Condiciones particulares.pdf
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\ARRIZAGA ROMERO MARVIS MRS.pdf
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\ARRIZAGA.pdf
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\DDR_194807-_Circuito_Hipotecario_Particulares_WEB_v_5_0.doc
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\IB6673_Marvis_MADCCS_YG8LLC.pdf
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Leonardo L Perez P Madrid.doc
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Recordatorio.pdf.ow7fyte.partial
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Satisfaccionteleco (Sept 2014 CM395).pdf
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Leonovo\MAD-CCS IB6673 ZI8EZ7.pdf
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Leonovo\MIA_Duplicado_790-012-8279120.pdf
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Leonovo\N7YXMK-pYLzUqBI.pdf
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\escritorio\media\bookmark.htm
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Personal\AgenciaTributaria\20150317_095424_ContratoAlquiler.pdf
+2025-03-11 08:43:47,673 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Pictures\Saved Pictures\DSC00693_Metro_San_Lorenzo_Madrid.JPG
+2025-03-11 08:43:47,673 - INFO - Archivos Procesados: 0
+2025-03-11 08:43:47,673 - INFO - Registros actualizados: 0
+2025-03-11 08:43:47,673 - INFO - Archivos que no se han podido eliminar: 0
+2025-03-11 08:43:47,673 - INFO - Archivos Omitidos, ya con resultados: 79
+2025-03-11 08:43:47,673 - INFO - Archivos NO encontrados: 0
+2025-03-11 08:43:47,673 - INFO - Proceso finalizado, duración: 0.06916689872741699
+2025-03-11 08:46:14,430 - INFO - Conexion Cursor
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Plantilla Candidato Externo_LeonardoPerezParra.xlsm
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\elearning\PEGA\4 . Diseñando un Ciclo de Vida del Caso\New Microsoft Excel Worksheet.tsv
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\201005_CategoriaSiguienteM954leperezp.pdf
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\201005_SalarioSiguienteM954leperezp.pdf
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\201806_LLP_Jun_6463.pdf
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\2014\201404_LLP_Abril_[wG6ELdSp].pdf
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\2016\201606_LLP_Junio [8hmXusdJ].pdf
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\2016\201609_LLP_Septiembre [tNO4x1AU].pdf
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\nominas\201604_LLP_ABRIL [ynPsf8Zf].pdf
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\nominas\2014\201403_LLP_Capgemini.pdf
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\rrhh\45101878.doc
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\CV LeonardoPerez_2.ppt.pptx
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Inventario_Elementos_y_SATI-20160804.xlsx
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\Cambios Sistema de control de riesgo Noviembre2016 v4_0_NotasBankia.docx
+2025-03-11 08:46:14,445 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\DTC\vers\DTC (OQPCRO01) Módulo consulta Facturacion del cliente_2rev2.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\DTC\vers\DTC (OQPCRO03) Módulo consulta detalles de la linea de riesgo_3rev4.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\DTC\vers\DTC (OQPCRO06) Módulo Renovacion de linea de Riesgo_2rev5.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\DTC\vers\DTC (OQPCRO07) Módulo Autorizar linea de Riesgo_2rev7.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\dossier_local\DOSSIER_TRABAJO_LOCAL-Control de Riesgo Operativo en Adeudos_v2.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\dossier_local\DOSSIER_TRABAJO_LOCAL-Control de Riesgo Operativo en Adeudos_v4_.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\dossier_local\vers\DOSSIER_TRABAJO_LOCAL-Control de Riesgo Operativo en Adeudos_v1.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\dossier_local\vers\DOSSIER_TRABAJO_LOCAL-Control de Riesgo Operativo en Adeudos_v1rev.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160727\DP Calculo Porcentaje Importe LMP OQUCRO02 v3-lpp.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160805\versiones\DP Modulo consulta detalles de linea de riesgo (OQPCRO03)05-08.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160818\DP Consulta Facturacion del Clliente OQUCRO01 v9rev23.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Calculo Porcentaje Importe LMP (OQPRO02) v5.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Consulta Facturacion del Clliente (OQUCRO01) v5.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Modulo consulta detalles de linea de riesgo (OQPCRO03) v5.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Módulo Alta de Nueva linea de Riesgo  (OQPCRO04) v5.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Módulo modificación de linea de riesgo (OQPCRO05) v5.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Módulo renovación de linea de riesgo (OQPCRO06) v5.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\entregas\DP Modulo consulta detalles de linea de riesgo (OQPCRO03) v2.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\entregas\DP Módulo Alta de Nueva linea de Riesgo  (OQPCRO04) v2.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\entregas\DP Módulo autorizar linea de riesgo (OQPCRO07) v2.docx
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\seguim\20160802_Notas.txt
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Bold Italic.otf
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Bold.otf
+2025-03-11 08:46:14,446 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Heavy Italic.otf
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Italic.otf
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Light Italic.otf
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Medium Italic.otf
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\HHCC\Kanban\RETRO Bankia 20180409 (2).pdf
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\modulos\MU - MKMDA0 - Solicitud datos Análisis Población.doc
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\modulos\Plantilla_Bankia_ECO.potx
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Seguimiento\HHCC\fotos_equipo\Leonardo Perez Parra.JPG
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Seguimiento\HHCC\mensual\201804\201804_HHCC_AC_Abril2018 v1.xlsx
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\ISBAN\BCE\carga\20140411\Carga Plantilla Final SAN T4A.xlsx
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\ISBAN\Silvina\PdS_Riesgos\20151021_1626  Pds Admision Riesgos 2015.xlsx
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\IsbanProy\GPS 2015\179617 2015 SAPYME DDR Y CONSTRUCCIÓN IMPRESOS Y COMPARATIVA DE BALANCES\post_implan\20150918_HD0000007687306 - Excel ErrExportacion\Excel Usuario\Export_Balance_19102015_1343426_llpp.xlsm
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\IsbanProy\ISA España\InstitucionesPublicas\notas\20151009_ISA Entidades Locales.txt
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\IsbanProy\ISA España\InstitucionesPublicas\notas\20151021_ISA Entidades Locales.txt
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\IsbanProy\ISA España\InstitucionesPublicas\notas\20151125 ISA Instituciones.txt
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Ofertas\Bankia\2019\201901_segurosdevida\ESTIMADOR AAD - Seguros Suplementos Salud_v5.xlsx
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\ofic_extranjeria_200711290026_6_7.pdf
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\APPs\EPP\Informacion_EPP v4.2x.xlsm
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\Documentacion\Plantillas\Plantilla_word_Isban_2012.doc
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\incidencias\20150917_ErrorPortatil_PantallaAzul - copia.jpg
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\incidencias\20150917_ErrorPortatil_PantallaAzul.jpg
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\SAPYME\COMP_BALANCE\Export_Balance_1 Abreviado - x3.xlsm
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\04_Z11_9995781.pdf
+2025-03-11 08:46:14,447 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\15113.docx
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\17-Formulario_TIE(1).pdf
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\2016_06_10_Capgemini_-_PROPUESTA_SEPA_-_Vinculaci_n_productos_v1a.pptx
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\201704_BBVA_170963000876098.pdf
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Actualización de condiciones particulares de póliza.pdf
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Actualización de Condiciones particulares.pdf
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\ARRIZAGA ROMERO MARVIS MRS.pdf
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\ARRIZAGA.pdf
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\DDR_194807-_Circuito_Hipotecario_Particulares_WEB_v_5_0.doc
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\IB6673_Marvis_MADCCS_YG8LLC.pdf
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Leonardo L Perez P Madrid.doc
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Recordatorio.pdf.ow7fyte.partial
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Satisfaccionteleco (Sept 2014 CM395).pdf
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Leonovo\MAD-CCS IB6673 ZI8EZ7.pdf
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Leonovo\MIA_Duplicado_790-012-8279120.pdf
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Leonovo\N7YXMK-pYLzUqBI.pdf
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\escritorio\media\bookmark.htm
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Personal\AgenciaTributaria\20150317_095424_ContratoAlquiler.pdf
+2025-03-11 08:46:14,448 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Pictures\Saved Pictures\DSC00693_Metro_San_Lorenzo_Madrid.JPG
+2025-03-11 08:46:14,448 - INFO - Archivos Procesados: 0
+2025-03-11 08:46:14,448 - INFO - Registros actualizados: 0
+2025-03-11 08:46:14,448 - INFO - Archivos que no se han podido eliminar: 0
+2025-03-11 08:46:14,448 - INFO - Archivos Omitidos, ya con resultados: 79
+2025-03-11 08:46:14,448 - INFO - Archivos NO encontrados: 0
+2025-03-11 08:46:14,448 - INFO - Proceso finalizado, duración: 0.022619962692260742
+2025-03-11 08:47:58,104 - INFO - Conexion Cursor
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Plantilla Candidato Externo_LeonardoPerezParra.xlsm
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\elearning\PEGA\4 . Diseñando un Ciclo de Vida del Caso\New Microsoft Excel Worksheet.tsv
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\201005_CategoriaSiguienteM954leperezp.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\201005_SalarioSiguienteM954leperezp.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\201806_LLP_Jun_6463.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\2014\201404_LLP_Abril_[wG6ELdSp].pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\2016\201606_LLP_Junio [8hmXusdJ].pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\Nom\2016\201609_LLP_Septiembre [tNO4x1AU].pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\nominas\201604_LLP_ABRIL [ynPsf8Zf].pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\nominas\2014\201403_LLP_Capgemini.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Capgemini\rrhh\45101878.doc
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\CV LeonardoPerez_2.ppt.pptx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Inventario_Elementos_y_SATI-20160804.xlsx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\Cambios Sistema de control de riesgo Noviembre2016 v4_0_NotasBankia.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\DTC\vers\DTC (OQPCRO01) Módulo consulta Facturacion del cliente_2rev2.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\DTC\vers\DTC (OQPCRO03) Módulo consulta detalles de la linea de riesgo_3rev4.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\DTC\vers\DTC (OQPCRO06) Módulo Renovacion de linea de Riesgo_2rev5.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\DTC\vers\DTC (OQPCRO07) Módulo Autorizar linea de Riesgo_2rev7.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\dossier_local\DOSSIER_TRABAJO_LOCAL-Control de Riesgo Operativo en Adeudos_v2.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\dossier_local\DOSSIER_TRABAJO_LOCAL-Control de Riesgo Operativo en Adeudos_v4_.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\dossier_local\vers\DOSSIER_TRABAJO_LOCAL-Control de Riesgo Operativo en Adeudos_v1.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\dossier_local\vers\DOSSIER_TRABAJO_LOCAL-Control de Riesgo Operativo en Adeudos_v1rev.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160727\DP Calculo Porcentaje Importe LMP OQUCRO02 v3-lpp.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160805\versiones\DP Modulo consulta detalles de linea de riesgo (OQPCRO03)05-08.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160818\DP Consulta Facturacion del Clliente OQUCRO01 v9rev23.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Calculo Porcentaje Importe LMP (OQPRO02) v5.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Consulta Facturacion del Clliente (OQUCRO01) v5.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Modulo consulta detalles de linea de riesgo (OQPCRO03) v5.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Módulo Alta de Nueva linea de Riesgo  (OQPCRO04) v5.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Módulo modificación de linea de riesgo (OQPCRO05) v5.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\20160822\DP Módulo renovación de linea de riesgo (OQPCRO06) v5.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\entregas\DP Modulo consulta detalles de linea de riesgo (OQPCRO03) v2.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\entregas\DP Módulo Alta de Nueva linea de Riesgo  (OQPCRO04) v2.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\pruebas_\entregas\DP Módulo autorizar linea de riesgo (OQPCRO07) v2.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\seguim\20160802_Notas.txt
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Bold Italic.otf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Bold.otf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Heavy Italic.otf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Italic.otf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Light Italic.otf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\fonts\Bankia\Bankia-Medium Italic.otf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\HHCC\Kanban\RETRO Bankia 20180409 (2).pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\modulos\MU - MKMDA0 - Solicitud datos Análisis Población.doc
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\modulos\Plantilla_Bankia_ECO.potx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Seguimiento\HHCC\fotos_equipo\Leonardo Perez Parra.JPG
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Bankia\Seguimiento\HHCC\mensual\201804\201804_HHCC_AC_Abril2018 v1.xlsx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\ISBAN\BCE\carga\20140411\Carga Plantilla Final SAN T4A.xlsx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\ISBAN\Silvina\PdS_Riesgos\20151021_1626  Pds Admision Riesgos 2015.xlsx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\IsbanProy\GPS 2015\179617 2015 SAPYME DDR Y CONSTRUCCIÓN IMPRESOS Y COMPARATIVA DE BALANCES\post_implan\20150918_HD0000007687306 - Excel ErrExportacion\Excel Usuario\Export_Balance_19102015_1343426_llpp.xlsm
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\IsbanProy\ISA España\InstitucionesPublicas\notas\20151009_ISA Entidades Locales.txt
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\IsbanProy\ISA España\InstitucionesPublicas\notas\20151021_ISA Entidades Locales.txt
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\IsbanProy\ISA España\InstitucionesPublicas\notas\20151125 ISA Instituciones.txt
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\datos\Ofertas\Bankia\2019\201901_segurosdevida\ESTIMADOR AAD - Seguros Suplementos Salud_v5.xlsx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\ofic_extranjeria_200711290026_6_7.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\APPs\EPP\Informacion_EPP v4.2x.xlsm
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\Documentacion\Plantillas\Plantilla_word_Isban_2012.doc
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\incidencias\20150917_ErrorPortatil_PantallaAzul - copia.jpg
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\incidencias\20150917_ErrorPortatil_PantallaAzul.jpg
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\docs\Isban\SAPYME\COMP_BALANCE\Export_Balance_1 Abreviado - x3.xlsm
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\04_Z11_9995781.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\15113.docx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\17-Formulario_TIE(1).pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\2016_06_10_Capgemini_-_PROPUESTA_SEPA_-_Vinculaci_n_productos_v1a.pptx
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\201704_BBVA_170963000876098.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Actualización de condiciones particulares de póliza.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Actualización de Condiciones particulares.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\ARRIZAGA ROMERO MARVIS MRS.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\ARRIZAGA.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\DDR_194807-_Circuito_Hipotecario_Particulares_WEB_v_5_0.doc
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\IB6673_Marvis_MADCCS_YG8LLC.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Leonardo L Perez P Madrid.doc
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Recordatorio.pdf.ow7fyte.partial
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Satisfaccionteleco (Sept 2014 CM395).pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Leonovo\MAD-CCS IB6673 ZI8EZ7.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Leonovo\MIA_Duplicado_790-012-8279120.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Downloads\Leonovo\N7YXMK-pYLzUqBI.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\escritorio\media\bookmark.htm
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Personal\AgenciaTributaria\20150317_095424_ContratoAlquiler.pdf
+2025-03-11 08:47:58,120 - INFO - Omitido, Resultado: 98, h:\llp16gb\docs_capgemini\Pictures\Saved Pictures\DSC00693_Metro_San_Lorenzo_Madrid.JPG
+2025-03-11 08:47:58,120 - INFO - Archivos Procesados: 0
+2025-03-11 08:47:58,135 - INFO - Registros actualizados: 0
+2025-03-11 08:47:58,135 - INFO - Archivos que no se han podido eliminar: 0
+2025-03-11 08:47:58,135 - INFO - Archivos Omitidos, ya con resultados: 79
+2025-03-11 08:47:58,135 - INFO - Archivos NO encontrados: 0
+2025-03-11 08:47:58,135 - INFO - Proceso finalizado, duración: 0.03
+2025-03-11 09:02:01,431 - INFO - Conexion Cursor: 2025-03-11 09:02:01.431986
+2025-03-11 09:02:01,447 - INFO - Procesar ruta: C:\Users\LeonPP\Documents
+2025-03-11 09:02:01,701 - INFO - Excluir carpeta: C:\Users\LeonPP\Documents\espana
+2025-03-11 09:02:01,744 - INFO - Excluir carpeta: C:\Users\LeonPP\Documents\maletin
+2025-03-11 09:02:01,833 - INFO - Conexion Cerrada
+2025-03-11 09:02:01,833 - INFO - Fin Ruta... C:\Users\LeonPP\Documents
+2025-03-11 09:02:01,833 - INFO - Archivos procesados: 28
+2025-03-11 09:02:01,833 - INFO - Ruta procesada. Inicio: 2025-03-11 09:02:01.431986, Fin: 2025-03-11 09:02:01.833618 ... duración 0.40

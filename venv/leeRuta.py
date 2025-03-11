@@ -10,7 +10,7 @@ from datetime import datetime
 # Log del proceso
 logging.basicConfig(
     filename='reg_leeRuta.log',  # Nombre del archivo de log
-    level=logging.INFO,  # Nivel del log (INFO, DEBUG, WARNING, etc.)
+    level=logging.INFO,  # INFO, DEBUG, WARNING, etc.
     format='%(asctime)s - %(levelname)s - %(message)s'  # Formato del log
 )
 

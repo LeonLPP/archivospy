@@ -1,4 +1,5 @@
 import sys
+import os
 from datetime import datetime 
 from leeRuta import procesar_ruta
 from depuraRuta import procesar_archivos
@@ -20,22 +21,23 @@ def main():
 
     if opcion == "1":
         # procesaRuta = "h:\\"
-        # ExCarpetas = ['H:\\iomega\\movies', 'H:\\iomega\\tvshow', 'H:\\lenovo\\compartidos\\videos']
-        procesaRuta = "C:\\Users\\LeonPP\\Documents"
-        ExcluiCarpetas = ['C:\\Users\\LeonPP\\Documents\\espana', 'C:\\Users\\LeonPP\\Documents\\maletin']
+        # ExCarpetas = ['H:\\iomega\\movies', 'H:\\iomega\\tvshow', 'H:\\lenovo\\compartidos\\videos']        
+        procesaRuta = os.path.expanduser("~")
+        procesaRuta = os.path.join(procesaRuta,"Documents")
+
+        # ExcluiCarpetas = ['C:\\Users\\LeonPP\\Documents\\espana', 'C:\\Users\\LeonPP\\Documents\\maletin']
+        ExcluiCarpetas = ['espana', 'maletin']
         ExcluirExten = ['.mkv', '.avi', '.m4v', '.mp4'] # , '.mp3', '.pdf']
 
-        print("Iniciando carga de rutas en la tabla py.ListArchivo...")
+        print(f"Carga de ruta {procesaRuta} en la tabla py.ListArchivo...")
         procesar_ruta(procesaRuta, ExcluiCarpetas, ExcluirExten)
-        print("Carga de rutas finalizada.")
 
     elif opcion == "2":
         
         id_accion = 92 # int(input("Introduce el idAccion (90 para borrar, 92 para simular borrado): "))
 
-        print("Iniciando proceso de depuración de archivos...")
+        print(f"{id_accion} - Proceso depuración de archivos...")
         procesar_archivos(id_accion)        
-        print("Proceso de depuración de archivos finalizado.")
 
     else:
         print(f"Opción inválida: {opcion}")
