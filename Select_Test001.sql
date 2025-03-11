@@ -27,3 +27,15 @@ Update py.ListArchivos
 Set idAccion = 92, FeAccion = GETDATE()
 Where idDupli=1
 GO
+
+
+SELECT FeCreado, Nombre, Exten, Tamano, Ruta, RutArchivo
+	, FecModif, FecAccess, idHash, UsrAlta, FecAlta, idDupli
+FROM py.ListArchivos
+WHERE lower(Exten) IN ('.zip', '.rar', '.7z')
+Order By Ruta
+GO
+
+Select count(1) FROM py.ListArchivos
+WHERE lower(Exten) IN ('.zip', '.rar', '.7z')
+GO

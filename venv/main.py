@@ -39,11 +39,14 @@ def main():
 
         print(f"{id_accion} - Proceso depuración de archivos...")
         procesar_archivos(id_accion)
-    elif opcion == 3:
+    elif opcion == "3":
         
-        rutaBackup = ""
+        rutaBackup = "h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos"
         if not os.path.exists(rutaBackup):
             print(f"La ruta no existe: {rutaBackup}")
+            return
+        print(f"Validar Respaldos: {rutaBackup}")
+        validRespaldo(rutaBackup)
 
     else:
         print(f"Opción inválida: {opcion}")
