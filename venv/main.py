@@ -4,6 +4,7 @@ from datetime import datetime
 from leeRuta import procesar_ruta
 from depuraRuta import procesar_archivos
 from depuraRuta_BIG import procesArchivBig
+from processBackup import validRespaldo
 
 def main():
     
@@ -37,11 +38,16 @@ def main():
         id_accion = 92 # int(input("Introduce el idAccion (90 para borrar, 92 para simular borrado): "))
 
         print(f"{id_accion} - Proceso depuración de archivos...")
-        procesar_archivos(id_accion)        
+        procesar_archivos(id_accion)
+    elif opcion == 3:
+        
+        rutaBackup = ""
+        if not os.path.exists(rutaBackup):
+            print(f"La ruta no existe: {rutaBackup}")
 
     else:
         print(f"Opción inválida: {opcion}")
-        print("Opciones válidas: 1 (procesar_ruta) o 2 (procesar_archivos)")
+        print("Opciones válidas: 1 (procesar_ruta), 2 (procesar_archivos) o 3 (validRespaldo)")
         sys.exit(1)
 
 if __name__ == "__main__":
