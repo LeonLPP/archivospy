@@ -1,6 +1,7 @@
-# Archivo configuracion.py
+# configConn.py
+import pyodbc
 
-# Definir la cadena de conexión
+# Cadenas de conexión
 CONN_STR_TEST = (
     "DRIVER={ODBC Driver 17 for SQL Server};"
     "SERVER=tu_servidor;"
@@ -14,10 +15,30 @@ CONN_STR = (
     "SERVER=.\SQLEXPRESS;"
     "DATABASE=MyFiles24;"
     "Trusted_Connection=Yes;"
-    # "Encrypt=Yes;"
     "TrustServerCertificate=No;"
 )
 
+def testConnection():
+    """
+    Verifica si se puede establecer conexión con la base de datos.
+    """
+    try:
+        conexion = pyodbc.connect(CONN_STR)
+        conexion.close()
+        return True
+    except Exception as e:
+        print(f"#Error# al conectar a la base de datos: {e}")
+        return False
+
+def connectDB():
+    """
+    Retorna una conexión activa a la base de datos.
+    """
+    try:
+        return pyodbc.connect(CONN_STR)
+    except Exception as e:
+        print(f"#Error# al conectar a la base de datos: {e}")
+        return None
 
 #  4. Opcional: Proteger la información sensible
 #  Para mejorar la seguridad, puedes usar variables de entorno en lugar de almacenar credenciales directamente en el archivo. Por ejemplo:

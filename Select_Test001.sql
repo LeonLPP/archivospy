@@ -39,3 +39,4 @@ GO
 Select count(1) FROM py.ListArchivos
 WHERE lower(Exten) IN ('.zip', '.rar', '.7z')
 GO
+h:\llp16gb\docs_capgemini\datos\Bankia\Control Riesgo Operativo en Adeudos\Documento_Funcional\DTC
