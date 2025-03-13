@@ -86,3 +86,38 @@ class Archivo:
             return f"Error al guardar el archivo '{self.nombre}': {e}"
         finally:
             conexion.close()
+"""
+Razones para usar @staticmethod
+Independencia de la Instancia:
+
+Métodos como calcularHash o cargaDB realizan tareas que no necesitan interactuar con los atributos de una instancia particular de Archivo.
+
+Por ejemplo:
+
+calcularHash simplemente toma una ruta de archivo como entrada, calcula su hash y retorna el valor; no depende de los atributos como idArchivo o ruta.
+
+cargaDB accede directamente a la base de datos para obtener información basada en idArchivo, pero tampoco utiliza atributos específicos de una instancia de Archivo.
+
+Organización del Código:
+
+Agrupar estas funciones dentro de la clase Archivo tiene sentido desde el punto de vista conceptual, ya que están relacionadas con la lógica de archivos.
+
+Sin embargo, como no requieren una instancia, el decorador @staticmethod comunica claramente esta independencia.
+
+Eficiencia:
+
+Al definir métodos como @staticmethod, evitamos crear objetos adicionales o asociarlos con una instancia específica, lo que puede ahorrar recursos cuando se realiza una operación repetidamente.
+
+Claridad:
+
+Ayuda a que el código sea más legible y entendible para otros desarrolladores. Al usar @staticmethod, queda explícito que los métodos son utilitarios y no interactúan con atributos específicos de la clase o de una instancia.
+
+Cuándo usar @staticmethod en lugar de un método normal
+Usa @staticmethod cuando:
+
+El método no necesita acceder ni modificar los atributos de clase (cls) ni de instancia (self).
+
+La funcionalidad tiene sentido como parte de la clase (por ejemplo, está directamente relacionada con la lógica de Archivo) pero no depende de atributos internos.
+
+Por ejemplo, en calcularHash, no hay razón para crear una instancia de Archivo solo para calcular el hash de un archivo, ya que puedes pasar directamente la ruta como argumento y realizar la operación.
+"""
