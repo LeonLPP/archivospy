@@ -29,7 +29,7 @@ class Archivo:
             print(f"Error al calcular el hash del archivo: {e}")
             return None
 
-    @staticmethod
+    @classmethod
     def cargaDB(idArchivo):
         
         conexion = connectDB()
@@ -68,6 +68,7 @@ class Archivo:
         finally:
             conexion.close()
 
+    @classmethod
     def guardaDB(self):
         # Agregar info del Archivo
         conexion = connectDB()
